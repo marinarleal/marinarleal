@@ -1,16 +1,15 @@
-## Hi there 👋
+## "meu sonho não seria completo sem voce"
 
-<!--
-**marinarleal/marinarleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marina
 
-Here are some ideas to get you started:
+- Estudo no vieira
+- Meu hobbie favorito é desenhar
+- Quero ser tatuadora quando acabar a escola
+- Amo moda
+- Quero ser designer de moda
+- Amo escutar musica
+- Meu filme favorito da disney é princesa e o sapo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://64.media.tumblr.com/tumblr_lohtyaIiAK1qknazho1_500.gif)
